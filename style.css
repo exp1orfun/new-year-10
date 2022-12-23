@@ -1,0 +1,60 @@
+img {
+    text-align:center;
+    color: black;
+    border: 10px solid ; 
+    background-color:goldenrod;
+    border-radius: 60px;
+    width: 500px;
+    height: 300px;
+    margin-left: 35px;
+
+}
+
+
+h1{
+    color: azure ;
+    text-align: center;
+   font-size: 70px;
+   background: darkgreen;
+   border-radius:20px ;
+   opacity: 0.79;
+}
+body {
+    background: url(https://avatars.mds.yandex.net/i?id=c6f801e0226a5a43e5d8f7877dfb76995cc5619b-8239440-images-thumbs&n=13)
+    
+}
+body{
+   background-size: 1300px 900px;
+}
+h2{
+    color: azure ;
+    text-align: center;
+   font-size: 70px;
+   background: darkgreen;
+   border-radius:20px ;
+   opacity: 0.79;
+}
+h3 {
+    color: azure ;
+    text-align: center;
+   font-size: 70px;
+   background: darkgreen;
+   border-radius:20px ;
+   opacity: 0.79;
+}
+h4{
+    color: azure ;
+    text-align: center;
+   font-size: 70px;
+   background: darkgreen;
+   border-radius:20px ;
+   opacity: 0.79;
+}
+h5{
+    color: azure ;
+    text-align: center;
+   font-size: 70px;
+   background: darkgreen;
+   border-radius:20px ;
+   opacity: 0.79;
+}
